@@ -1,0 +1,12 @@
+Reference Gambar:
+- Paprika.png
+  Link: https://cdn0-production-images-kly.akamaized.net/T-ViGgM3rIfW35_pdcSIYdBn1nk=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2364358/original/005451800_1537516497-paprika.jpg
+
+- Brokoli.png
+  Link: https://kecipir.com/blog/wp-content/uploads/2020/07/brokoli-putih.jpg
+
+- ID_flag.jpg
+  Link: https://i.ebayimg.com/images/g/13AAAOSwcj1aCehw/s-l500.jpg
+
+- EN_flag.png
+  LinK: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Great_Britain_%281707%E2%80%931800%29.svg/2560px-Flag_of_Great_Britain_%281707%E2%80%931800%29.svg.png
