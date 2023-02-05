@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.custom-bg-green {
+    background-color: rgb(75, 191, 25);
+}
+
+.custom-ol-green {
+    border: 1px solid rgb(79, 206, 24);
+}
+
+.custom-txt-green {
+    color: rgb(71, 186, 22);
+}
+
+.fitty {
+    width: fit-content;
+    height: fit-content;
+}
+
+.dflt-h {
+    height: 100vh;
+}
+
+.nav-h {
+    height: 8vh;
+}
+
+.title-r::after {
+    color: black;
+    content: " Amazing E-Grocery";
+}
+
+
+.btn-actv {
+    border-radius: 5px;
+    background-color: rgb(71, 186, 22);
+    border: 2px solid rgb(71, 186, 22);
+    padding: 6px 15px;
+    -webkit-transition-duration: 0.5s;
+    transition-duration: 0.5s;
+}
+
+.btn-in-actv {
+    border-radius: 5px;
+    border: 2px solid rgb(71, 186, 22);
+    padding: 6px 15px;
+    -webkit-transition-duration: 0.5s;
+    transition-duration: 0.5s;
+}
+
+.btn-actv:hover {
+    -webkit-transition-duration: 0.5s;
+    transition-duration: 0.5s;
+    background-color: rgb(62, 161, 20);
+    border: 2px solid rgb(62, 161, 20);
+}
+
+.btn-in-actv:hover {
+    -webkit-transition-duration: 0.5s;
+    transition-duration: 0.5s;
+    color: white;
+    background-color: rgb(62, 161, 20);
+    border: 2px solid rgb(62, 161, 20);
+}
+
+.ul-blck {
+    background-color: white;
+    height: 0.4vh;
+    width: 80%;
+}
+
+.bar-mov {
+    height: 0.8vh;
+    width: 40%;
+    background-color: rgb(71, 186, 22);
+    -webkit-animation: r-to-l 3s infinite alternate;
+    animation: r-to-l 3s infinite alternate;
+}
+
+.ipt-style {
+    
+}
+
+@-webkit-keyframes r-to-l {
+    0% {
+        transform: translateX(-60px);
+    }
+    100% {
+        transform: translateX(60px);
+    }
+}
+
+@keyframes r-to-l {
+    0% {
+        transform: translateX(-60px);
+    }
+
+    100% {
+        transform: translateX(60px);
+    }
+}
+
+
+
+
